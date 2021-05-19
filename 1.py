@@ -1,0 +1,11 @@
+country = ["USA","Italy","French","Russia","Germany"]
+print (country)
+print (sorted (country))
+print (sorted (country,reverse=True))
+country.reverse ()
+print (country)
+country.sort ()
+print (country)
+country.sort(reverse=True)
+print (country)
+input = raw_input ()
